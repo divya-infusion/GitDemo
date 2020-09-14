@@ -1,3 +1,3 @@
 # GitDemo
-Master repository
+Test repository
 
