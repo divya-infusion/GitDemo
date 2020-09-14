@@ -1,2 +1,2 @@
 # GitDemo
-Demo repository
+Info repository
